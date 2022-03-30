@@ -15,7 +15,7 @@ import random
 # print(a1)
 #zadanie 3
 # a={'mleko':'ml', 'mąka':'kg', 'ogórek':'sztuki', 'pomidory':'sztuki'}
-# b={key: value for key, value in a.items() if value=='sztuki'}
+# b=[key: value for key, value in a.items() if value=='sztuki']
 # print(b)
 #Zadanie 4
 # def czyprostokatny(a,b,c):
